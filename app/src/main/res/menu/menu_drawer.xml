@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Geral">
+        <menu>
+            <item
+                android:id="@+id/ic_home"
+                android:icon="@drawable/ic_baseline_home"
+                android:title="Home" />
+            <item
+                android:id="@+id/ic_outros"
+                android:icon="@drawable/ic_baseline_group_add"
+                android:title="Outros" />
+
+        </menu>
+    </item>
+    <item android:title="Outros">
+        <menu>
+            <item
+                android:id="@+id/ic_fav"
+                android:icon="@drawable/ic_baseline_favorite"
+                android:title="Home" />
+            <item
+                android:id="@+id/ic_not"
+                android:icon="@drawable/ic_baseline_notifications"
+                android:title="Outros" />
+
+        </menu>
+    </item>
+</menu>
