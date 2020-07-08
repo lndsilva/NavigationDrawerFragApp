@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:title="Geral">
+    <item android:title="Informações">
         <menu>
             <item
                 android:id="@+id/ic_home"
@@ -13,7 +13,7 @@
 
         </menu>
     </item>
-    <item android:title="Outros">
+    <item android:title="Configurações">
         <menu>
             <item
                 android:id="@+id/ic_fav"
